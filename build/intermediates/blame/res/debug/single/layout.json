@@ -68,6 +68,10 @@
         "source": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "C:\\AndroidStudioProyects\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ud6__controlar_mapa.xml",
+        "source": "C:\\AndroidStudioProyects\\Ud6_EventosMapa\\res\\layout\\activity_ud6__controlar_mapa.xml"
+    },
+    {
         "merged": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -78,6 +82,10 @@
     {
         "merged": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ud6__controlar_mapa.xml",
+        "source": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\res\\layout\\activity_ud6__controlar_mapa.xml"
     },
     {
         "merged": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",

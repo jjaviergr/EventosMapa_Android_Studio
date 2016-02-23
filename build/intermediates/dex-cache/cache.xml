@@ -2,53 +2,53 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_7dde8ae265a0ca27e564dd5d66a431ecbe28181e\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_1f48c6477493452baff433a4690c269450b839bc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jar="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_0d0d1891dac0971a20c543f2162fddecd241731a\classes.dex" />
+        <dex dex="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_3fb381c70ea6ac5422d299eae582ab1ea2a0eba9\classes.dex" />
     </item>
     <item
-        jar="C:\Users\pc\workspace\Ud6_EventosMapa\libs\android-support-v4.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
-        <dex dex="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_1cfe839afb0686450a389794ccd63f8a9dac9526\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jar="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_5eeb0a03f0f8816f79517a66f20d0eeb04c7b8a2\classes.dex" />
+        <dex dex="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_55b8f73b34d6b54b6287a3ccafce3e26b4755c78\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_8b513a327d9813a0d0378567ebff221d2336736c\classes.dex" />
     </item>
     <item
         jar="C:\Users\pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_9dc15acd397c2500f62a8a68291cde35f3578bf1\classes.dex" />
+        <dex dex="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_9dc15acd397c2500f62a8a68291cde35f3578bf1\classes.dex" />
     </item>
     <item
-        jar="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jar="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_93ae8fe6f1823a3c16bdfa8db4a55fad3f7452cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProyects\Ud6_EventosMapa\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_94586998f187d4918f0283e86d8acfe7036935cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="C:\Users\pc\workspace\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_4e5db3bda1f9f9348c2ba92246d3cf78afd5e301\classes.dex" />
+        <dex dex="C:\AndroidStudioProyects\Ud6_EventosMapa\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c2e3d406bb84cf8e7f76918bae9c616c0aab459a\classes.dex" />
     </item>
 
 </items>

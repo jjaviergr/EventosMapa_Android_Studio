@@ -2,5 +2,13 @@
     {
         "merged": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\menu\\activity_ud6__eventos_mapa.xml",
         "source": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\res\\menu\\activity_ud6__eventos_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\menu\\activity_ud6__controlar_mapa.xml",
+        "source": "C:\\Users\\pc\\workspace\\Ud6_EventosMapa\\res\\menu\\activity_ud6__controlar_mapa.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProyects\\Ud6_EventosMapa\\build\\intermediates\\res\\merged\\debug\\menu\\activity_ud6__controlar_mapa.xml",
+        "source": "C:\\AndroidStudioProyects\\Ud6_EventosMapa\\res\\menu\\activity_ud6__controlar_mapa.xml"
     }
 ]

@@ -290,8 +290,12 @@ containing a value of this type.
         public static final int icon_only=0x7f090007;
         public static final int light=0x7f09000c;
         public static final int map=0x7f09000d;
-        public static final int menu_lineas=0x7f09000f;
-        public static final int menu_marcadores=0x7f09000e;
+        public static final int menu_alcazaba=0x7f090010;
+        public static final int menu_posicion=0x7f090011;
+        public static final int menu_spain=0x7f09000e;
+        public static final int menu_spain_zoom=0x7f09000f;
+        public static final int menu_torre=0x7f090013;
+        public static final int menu_vista=0x7f090012;
         public static final int none=0x7f090002;
         public static final int normal=0x7f090004;
         public static final int satellite=0x7f090005;
@@ -303,10 +307,10 @@ containing a value of this type.
         public static final int google_play_services_version=0x7f070000;
     }
     public static final class layout {
-        public static final int activity_ud6__eventos_mapa=0x7f030000;
+        public static final int activity_ud6__controlar_mapa=0x7f030000;
     }
     public static final class menu {
-        public static final int activity_ud6__eventos_mapa=0x7f080000;
+        public static final int activity_ud6__controlar_mapa=0x7f080000;
     }
     public static final class string {
         public static final int app_name=0x7f04001d;
