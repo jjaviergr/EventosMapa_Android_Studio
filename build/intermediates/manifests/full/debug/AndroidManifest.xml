@@ -51,7 +51,7 @@
         <!-- API KEY generada con mi huella SHA1 del adt-bundle2 del portátil -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyC32pB2KGFwwqt4NEdl2-GvkdSc-kR_TaU" />
+            android:value="AIzaSyDfXoWwmLJSsCB0UAOrR3nW1IgSKHDa1jY" />
     </application>
 
 </manifest>
